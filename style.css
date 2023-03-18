@@ -86,8 +86,9 @@ input{
 .image{
     display: flex;
     margin-left: 400px;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     margin-top: -590px;
+    gap: 200px;
 }
 #w1,#w2,#w3{
     width: 200px;
@@ -95,7 +96,7 @@ input{
 .image1{
     display: flex;
     margin-left: 400px;
-    justify-content: space-between;
+    gap: 200px;
     margin-top: 120px;
 }
 #w4,#w5,#w6{
@@ -105,7 +106,7 @@ input{
     display: flex;
     margin-left:400px;
     margin-top: 120px;
-    justify-content: space-between;
+    gap: 200px;
 }
 #w7,#w8,#w9{
     width: 200px;
@@ -114,7 +115,7 @@ input{
     display: flex;
     margin-left:400px;
     margin-top: 120px;
-    justify-content: space-between;
+    gap: 200px;
 }
 #w10,#w13,#w12{
     width: 200px;
@@ -123,7 +124,7 @@ input{
     display: flex;
     margin-left:400px;
     margin-top: 120px;
-    justify-content: space-between;
+    gap: 200px;
 }
 #w14,#w15,#w16{
     width: 200px;
@@ -132,7 +133,7 @@ input{
     display: flex;
     margin-left:400px;
     margin-top: 120px;
-    justify-content: space-between;
+    gap: 200px;
 }
 #w17,#w18,#w19{
     width: 200px;
@@ -149,7 +150,7 @@ input{
     font-size: 20px;
     font-weight: 550;
     display: flex;
-    justify-content: space-between;
+    gap: 200px;
 }
 .n1{
     font-size: 20px;
@@ -157,14 +158,14 @@ input{
     font-weight: 600;
     margin-left: 400px;
     display: flex;
-    justify-content: space-between;
+    gap: 350px;
 }
 .t2{
     margin-left: 350px;
     font-size: 20px;
     font-weight: 550;
     display: flex;
-    justify-content: space-between;
+    gap: 200px;
 }
 .n2{
     font-size: 20px;
@@ -172,14 +173,14 @@ input{
     font-weight: 600;
     margin-left: 400px;
     display: flex;
-    justify-content: space-between;
+    gap: 350px;
 }
 .t3{
     margin-left: 350px;
     font-size: 20px;
     font-weight: 550;
     display: flex;
-    justify-content: space-between;
+    gap: 200px;
 }
 .n3{
     font-size: 20px;
@@ -187,14 +188,14 @@ input{
     font-weight: 600;
     margin-left: 400px;
     display: flex;
-    justify-content: space-between;
+    gap: 350px;
 }
 .t4{
     margin-left: 350px;
     font-size: 20px;
     font-weight: 550;
     display: flex;
-    justify-content: space-between;
+    gap: 200px;
 }
 .n4{
     font-size: 20px;
@@ -202,14 +203,14 @@ input{
     font-weight: 600;
     margin-left: 400px;
     display: flex;
-    justify-content: space-between;
+    gap: 350px;
 }
 .t5{
     margin-left: 350px;
     font-size: 20px;
     font-weight: 550;
     display: flex;
-    justify-content: space-between;
+    gap: 200px;
 }
 .n5{
     font-size: 20px;
@@ -217,14 +218,14 @@ input{
     font-weight: 600;
     margin-left: 400px;
     display: flex;
-    justify-content: space-between;
+    gap: 350px;
 }
 .t6{
     margin-left: 350px;
     font-size: 20px;
     font-weight: 550;
     display: flex;
-    justify-content: space-between;
+    gap: 200px;
 }
 .n6{
     font-size: 20px;
@@ -232,7 +233,7 @@ input{
     font-weight: 600;
     margin-left: 400px;
     display: flex;
-    justify-content: space-between;
+    gap: 350px;
 }
 .b1{
     width: 63px;
@@ -249,7 +250,7 @@ input{
     color: #4d4141;
 }
 .buts{
-    margin-top: 200px;
+    margin-top: 100px;
     margin-left: 500px;
 }
 .j1,.j2,.j3,.j4{
@@ -273,20 +274,20 @@ input{
     background-color: #FFD600;
 }
 .stars{
-    margin-left: 560px;
-    font-size: 25px;
+    margin-left: 400px;
+    font-size: 20px;
     color: #FFD600;
 
 }
 .sters{
-    margin-left: 960px;
-    font-size: 25px;
+    margin-left: 800px;
+    font-size: 20px;
     margin-top: -10px;
 }
 .stirs{
-    margin-left: 1390px;
-    font-size: 25px;
-    margin-top: -60px;
+    margin-left: 1199px;
+    font-size: 20px;
+    margin-top: -35px;
 
 }
 .dot{
