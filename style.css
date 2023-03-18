@@ -54,7 +54,7 @@ input{
 .gen{
     margin-top: 30px;
     background-color: #FFD600;
-    width: 1589px;
+    width: 1595px;
     height: 80px;
 }
 .icons{
@@ -323,21 +323,23 @@ input{
     background-color: #FFD600;
 }
 .footer{
-    margin-top: 70px;
+    margin-top: 30px;
     display: flex;
     font-size: 20px;
     background-color: #26004c;
     width: 1599px;
-    height: 40vh;
+    height: 30vh;
 }
 .fun{
     font-weight: 550;
+    margin-top: 20px;
 }
 .fon{
     margin-left: 30px;
 }
 .foo{
     font-weight: 550;
+    margin-top: 20px;
 }
 .con{
     margin-left: 30px;
@@ -350,6 +352,7 @@ input{
 }
 .fuu{
     font-weight: 550;
+    margin-top: 20px;
 }
 .bars{
     display: flex;
@@ -361,21 +364,15 @@ input{
 .tuu{
     font-weight: 550;
     margin-left: -140px;
+    margin-top: 20px;
 }
 .navs{
     display: flex;
     justify-content: space-between;
 }
 @media only screen and (min-width: 1000px) {
-    body{
-        background-color: antiquewhite;
-    }
-
-}
-
-@media (max-width: 1000px) {
-    body{
-        background-color: aliceblue;
+    *{
+        padding: 0;
+        margin: 0;
     }
 }
-
