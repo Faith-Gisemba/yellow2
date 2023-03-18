@@ -53,7 +53,6 @@ input{
 .gen{
     margin-top: 30px;
     background-color: #FFD600;
-    width: 1595px;
     height: 80px;
 }
 .icons{
@@ -249,11 +248,11 @@ input{
     font-weight: 550;
     color: #4d4141;
     border: #eee7e7 solid;
-    margin-right: 1290px;
     border-radius: 2%;
+    margin-right: 1300px;
 }
 .buts{
-    margin-top: 250px;
+    margin-top: 200px;
     margin-left: 500px;
 }
 .j1,.j2,.j3,.j4{
