@@ -53,7 +53,7 @@ input{
 .gen{
     margin-top: 30px;
     background-color: #FFD600;
-    height: 80px;
+    height: 100px;
 }
 .icons{
     margin-left: 1200px;
@@ -75,12 +75,12 @@ input{
     width: 340px;
     height: 12vh;
     margin-left: 550px;
-    margin-top: -17px;
+    margin-top: -27px;
 
 }
 .all{
     background-color: black;
-    height: 15vh;
+    height: 14vh;
 
 }
 .image{
@@ -322,7 +322,7 @@ input{
     display: flex;
     font-size: 20px;
     background-color: #26004c;
-    width: 1580px;
+    width: 1080px;
     height: 30vh;
 }
 .fun{
