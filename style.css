@@ -42,7 +42,7 @@ nav ul li{
 }
 .input{
     margin-left: 600px;
-    margin-top: -30px;
+    margin-top: -50px;
 }
 input{
     padding: 15px;
@@ -68,7 +68,7 @@ input{
 }
 .ser{
     margin-left: 630px;
-    margin-top: -27px;
+    margin-top: -20px;
     font-size: 20px;
 }
 .fog img{
@@ -87,7 +87,7 @@ input{
     display: flex;
     margin-left: 300px;
     margin-top: -590px;
-    gap: 200px;
+    gap: 150px;
 }
 #w1,#w2,#w3{
     width: 200px;
@@ -95,7 +95,7 @@ input{
 .image1{
     display: flex;
     margin-left: 300px;
-    gap: 200px;
+    gap: 150px;
     margin-top: 120px;
 }
 #w4,#w5,#w6{
@@ -105,7 +105,7 @@ input{
     display: flex;
     margin-left:300px;
     margin-top: 120px;
-    gap: 200px;
+    gap: 150px;
 }
 #w7,#w8,#w9{
     width: 200px;
@@ -114,7 +114,7 @@ input{
     display: flex;
     margin-left:300px;
     margin-top: 120px;
-    gap: 200px;
+    gap: 150px;
 }
 #w10,#w13,#w12{
     width: 200px;
@@ -123,7 +123,7 @@ input{
     display: flex;
     margin-left:300px;
     margin-top: 120px;
-    gap: 200px;
+    gap: 150px;
 }
 #w14,#w15,#w16{
     width: 200px;
@@ -132,7 +132,7 @@ input{
     display: flex;
     margin-left:300px;
     margin-top: 120px;
-    gap: 200px;
+    gap: 150px;
 }
 #w17,#w18,#w19{
     width: 200px;
@@ -322,7 +322,7 @@ input{
     display: flex;
     font-size: 20px;
     background-color: #26004c;
-    width: 1580px;
+    width: 1450px;
     height: 30vh;
 }
 .fun{
